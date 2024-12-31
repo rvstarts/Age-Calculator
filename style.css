@@ -1,0 +1,38 @@
+* {
+    margin: 0%;
+    padding: 0%;
+ font-family: cursive;
+ box-sizing: border-box;
+}
+body
+{
+    height: 100vh;
+    background: linear-gradient(to right,rgb(43, 157, 198),#97d617);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box
+{
+    background-color: white;
+    width: fit-content;
+    padding: 50px;
+    box-shadow: 5px 5px 10px;
+}
+input{
+    padding: 10px;
+    border-radius: 5px;
+}
+h1{
+
+
+    color: hotpink
+}
+input
+{
+    background-color: rgb(204, 194, 213);
+
+}
+label{
+    color: blue;
+}
